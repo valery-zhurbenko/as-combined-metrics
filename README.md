@@ -1,3 +1,6 @@
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=valery-zhurbenko_as-combined-metrics&metric=alert_status)](https://sonarcloud.io/dashboard?id=valery-zhurbenko_as-combined-metrics)
+
 AWS Autoscale Combined Metrics
 ==============================
 
